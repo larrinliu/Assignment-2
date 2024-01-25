@@ -1,4 +1,4 @@
-/************ Base styles ************/
+ /************ Base styles ************/
 * {
   box-sizing: border-box;
 }
@@ -32,5 +32,17 @@ p {
 }
 
 /************ Small devices only ************/
-@media (min-width: 768px) and (max-width: 899px)
+@media (min-width: 768px) and (max-width: 899px) {
+  .col-sm-6, .col-sm-12 {
+    float: left;
+    border: 1px solid black;
+    background-color: gray;
+  }
+  .col-sm-6 {
+    width: 50%;
+  }
+  .col-sm-12 {
+    width: 100%;
+  }
+}
 
