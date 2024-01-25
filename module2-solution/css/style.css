@@ -17,6 +17,9 @@ p {
 /************ Simple Response Framwork. ************/
 .row {
   width: 100%;
+  float: left;
+  border: 1px solid black;
+  background-color: gray;
 }
 
 /************ Medium devices only ************/
