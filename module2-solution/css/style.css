@@ -9,8 +9,6 @@ h1 {
 
 p {
   width: 90%;
-  margin-right: auto;
-  margin-left: auto;
 }
   
 
@@ -40,9 +38,6 @@ p {
   }
   .col-sm-6 {
     width: 50%;
-  }
-  .col-sm-12 {
-    width: 100%;
   }
 }
 
