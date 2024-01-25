@@ -11,15 +11,15 @@ p {
   width: 90%;
   margin-right: auto;
   margin-left: auto;
+  float: left;
+  border: 1px solid black;
+  background-color: gray;
 }
   
 
 /************ Simple Response Framwork. ************/
 .row {
   width: 100%;
-  float: left;
-  border: 1px solid black;
-  background-color: gray;
 }
 
 /************ Medium devices only ************/
