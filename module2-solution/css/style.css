@@ -9,19 +9,19 @@ h1 {
 /************ Simple Response Framwork. ************/
 
 
-/************ Large devices only ************/
-@media (min-width: 992px;) {
-  .col-lg-4 {
+/************ Medium devices only ************/
+@media (min-width: 992px) {
+  .col-md-4 {
     float: left;
     border: 1px solid black;
   }
-  .col-lg-4 {
+  .col-md-4 {
     width: 33.33%;
   }
 }
 
-/************ Medium devices only ************/
-@media (min-width: 768px; max-width: 991px;)
-
 /************ Small devices only ************/
-@media (max-width: 767px;)
+@media (min-width: 768px) and (max-width: 991px)
+
+/************ XS devices only ************/
+@media (max-width: 767px)
