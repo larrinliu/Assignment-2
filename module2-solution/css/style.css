@@ -10,9 +10,10 @@ h1 {
 
 
 /************ Large devices only ************/
-
+@media (min-width: 992px;)
 
 /************ Medium devices only ************/
-
+@media (min-width: 768px; max-width: 991px;)
 
 /************ Small devices only ************/
+@media (max-width: 767px;)
