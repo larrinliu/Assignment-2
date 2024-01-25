@@ -1,6 +1,18 @@
+/************ Base styles ************/
 * {
   box-sizing: border-box;
 }
 h1 {
   margin-bottom: 15px;
 }
+
+/************ Simple Response Framwork. ************/
+
+
+/************ Large devices only ************/
+
+
+/************ Medium devices only ************/
+
+
+/************ Small devices only ************/
