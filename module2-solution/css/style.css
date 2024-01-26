@@ -21,6 +21,7 @@ h1 {
     padding: 5 px;
     margin: 10 px;
     background-color: gray;
+    box-sizing: border-box;
   }
   .col-md-4 {
     width: 33.33%;
@@ -35,6 +36,7 @@ h1 {
     padding: 5 px;
     margin: 10 px;
     background-color: gray;
+    box-sizing: border-box;
   }
   .col-sm-6 {
     width: 50%;
@@ -52,6 +54,7 @@ h1 {
     padding: 5 px;
     margin: 10 px;
     background-color: gray;
+    box-sizing: border-box;
  }
  .col-xs-12 {
     width: 100%;
