@@ -18,6 +18,8 @@ h1 {
   .col-md-4 {
     float: left;
     border: 1px solid black;
+    padding: 5 px;
+    margin: 10 px;
     background-color: gray;
   }
   .col-md-4 {
@@ -30,6 +32,8 @@ h1 {
   .col-sm-6, .col-sm-12 {
     float: left;
     border: 1px solid black;
+    padding: 5 px;
+    margin: 10 px;
     background-color: gray;
   }
   .col-sm-6 {
@@ -45,6 +49,8 @@ h1 {
  .col-xs-12 {
     float: left;
     border: 1px solid black;
+    padding: 5 px;
+    margin: 10 px;
     background-color: gray;
  }
  .col-xs-12 {
