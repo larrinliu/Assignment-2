@@ -8,21 +8,6 @@ h1 {
   text-align: center;
 }
 
-#p1 {
-   margin: 5px;
-   padding: 15px;
-}
-
-#p2 {
-   margin: 5px;
-   padding: 15px;
-}
-
-#p3 {
-   margin: 5px;
-   padding: 15px;
-}
-
 /************ Simple Response Framwork. ************/
 .row {
   width: 100%;
@@ -78,3 +63,17 @@ h3 {
 }
  
   
+#p1 {
+   margin: 5px;
+   padding: 15px;
+}
+
+#p2 {
+   margin: 5px;
+   padding: 15px;
+}
+
+#p3 {
+   margin: 5px;
+   padding: 15px;
+}
